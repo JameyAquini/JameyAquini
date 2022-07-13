@@ -8,4 +8,4 @@
 	Head <a href="https://github.com/formidablae/JameyAquini/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
 </h4>
 <hr>
-[![Awesome](https://github.com/JameyAquini/JameyAquini/) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-banana.svg)](https://github.com/chetanraj/awesome-github-badges)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/sindresorhus/awesome)](http)s://github.com/JameyAquini/JameyAquini/) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)]([https://github.com/chetanraj/awesome-github-badges](https://github.com/JameyAquini/JameyAquini/))
