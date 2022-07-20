@@ -3,7 +3,7 @@
 </h3>
 
 <h4 align="center">
-	Head <a href="https://github.com/formidablae/JameyAquini/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
+	Head <a href="https://github.com/JameyAquini/JameyAquini/discussions">over here</a> to engage, share, ask questions and collaborate together!
 </h4>
 <hr>
 <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=JameyAquini&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
