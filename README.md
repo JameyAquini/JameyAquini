@@ -10,4 +10,5 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JameyAquini) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/JameyAquini)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge)](https://github.com/JameyAquini)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3DMOU6)
 
