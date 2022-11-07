@@ -6,6 +6,5 @@
 	Head <a href="https://github.com/JameyAquini/JameyAquini/discussions">over here</a> to engage, share, ask questions and collaborate together!
 </h4>
 
-<i align="center">
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3DMOU6)
-</i>
+⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3DMOU6)
+
